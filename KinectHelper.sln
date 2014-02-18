@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KinectControllerTest", "KinectControllerTest\KinectControllerTest.csproj", "{E7E90E7E-50DF-43F3-9785-EB3839F7DA37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KinectGestureExplorer", "KinectGestureExplorer\KinectGestureExplorer.csproj", "{E72CC730-A4B1-4B59-BA20-4C990FF27739}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kinect.Helper.Controller", "Kinect.Helper.Controller\Kinect.Helper.Controller.csproj", "{A39227D1-DB39-4B2C-B61F-B8DB557E6352}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kinect.Helper.Gestures", "Kinect.Helper.Gesture\Kinect.Helper.Gestures.csproj", "{7471719C-9BD5-42BA-B42B-BB5663EEBBC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7E90E7E-50DF-43F3-9785-EB3839F7DA37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7E90E7E-50DF-43F3-9785-EB3839F7DA37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7E90E7E-50DF-43F3-9785-EB3839F7DA37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7E90E7E-50DF-43F3-9785-EB3839F7DA37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E72CC730-A4B1-4B59-BA20-4C990FF27739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E72CC730-A4B1-4B59-BA20-4C990FF27739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E72CC730-A4B1-4B59-BA20-4C990FF27739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E72CC730-A4B1-4B59-BA20-4C990FF27739}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A39227D1-DB39-4B2C-B61F-B8DB557E6352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A39227D1-DB39-4B2C-B61F-B8DB557E6352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A39227D1-DB39-4B2C-B61F-B8DB557E6352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A39227D1-DB39-4B2C-B61F-B8DB557E6352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7471719C-9BD5-42BA-B42B-BB5663EEBBC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7471719C-9BD5-42BA-B42B-BB5663EEBBC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7471719C-9BD5-42BA-B42B-BB5663EEBBC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7471719C-9BD5-42BA-B42B-BB5663EEBBC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
